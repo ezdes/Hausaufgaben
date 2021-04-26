@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="445b3fc7-cb97-418e-b918-261f67a156b6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1riLO07F5cQyY2xRO6WtmdBeVwh" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Ermek\Desktop\xz\homework61" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.ApplicationTest">
+    <configuration name="ApplicationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework61" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApplicationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTest.checkBanknotes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework61" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApplicationTest" />
+      <option name="METHOD_NAME" value="checkBanknotes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTest.countBanknotes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework61" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApplicationTest" />
+      <option name="METHOD_NAME" value="countBanknotes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTest.testOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework61" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApplicationTest" />
+      <option name="METHOD_NAME" value="testOne" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ApplicationTest.testTwo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework61" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ApplicationTest" />
+      <option name="METHOD_NAME" value="testTwo" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ApplicationTest" />
+        <item itemvalue="JUnit.ApplicationTest.testTwo" />
+        <item itemvalue="JUnit.ApplicationTest.testOne" />
+        <item itemvalue="JUnit.ApplicationTest.checkBanknotes" />
+        <item itemvalue="JUnit.ApplicationTest.countBanknotes" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="445b3fc7-cb97-418e-b918-261f67a156b6" name="Default Changelist" comment="" />
+      <created>1619453927129</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1619453927129</updated>
+      <workItem from="1619453930080" duration="6143000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="194" y="7" key="#Project_Structure" timestamp="1619459303487">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="194" y="7" key="#Project_Structure/0.0.1536.864@0.0.1536.864" timestamp="1619459303487" />
+    <state width="1493" height="311" key="GridCell.Tab.0.bottom" timestamp="1619461749292">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="311" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1619461749292" />
+    <state width="1493" height="311" key="GridCell.Tab.0.center" timestamp="1619461749291">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="311" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1619461749291" />
+    <state width="1493" height="311" key="GridCell.Tab.0.left" timestamp="1619461749291">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="311" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1619461749291" />
+    <state width="1493" height="311" key="GridCell.Tab.0.right" timestamp="1619461749291">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="311" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1619461749291" />
+    <state width="1493" height="2" key="GridCell.Tab.1.bottom" timestamp="1619461400508">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1619461400508" />
+    <state width="1493" height="2" key="GridCell.Tab.1.center" timestamp="1619461400508">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1619461400508" />
+    <state width="1493" height="2" key="GridCell.Tab.1.left" timestamp="1619461400508">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1619461400508" />
+    <state width="1493" height="2" key="GridCell.Tab.1.right" timestamp="1619461400508">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="2" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1619461400508" />
+  </component>
+</project>
